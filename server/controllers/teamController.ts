@@ -13,7 +13,7 @@ interface TeamData {
 // Function to handle the request for team data
 export const getTeamData = async (req: Request, res: Response): Promise<void> => {
   // Construct the file path to the Team.json file
-  const filePath = path.join(__dirname, '../data/Team.json');
+  const filePath = path.join(__dirname, '../Data/Team.json');
 
   try {
     // Read the JSON file asynchronously

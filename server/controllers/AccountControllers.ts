@@ -14,7 +14,7 @@ interface AccountIndustryData {
 // Function to handle the request for account industry data
 export const getAccountIndustryData = async (req: Request, res: Response): Promise<void> => {
   // Construct the file path to the Account_Industry.json file
-  const filePath = path.join(__dirname, '../data/Account_Industry.json');
+  const filePath = path.join(__dirname, '../Data/Account_Industry.json');
   console.log(filePath); // Log the file path for debugging purposes
 
   try {

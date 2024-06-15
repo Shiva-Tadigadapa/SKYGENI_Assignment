@@ -13,7 +13,7 @@ interface CustomerTypeData {
 // Function to handle the request for customer type data
 export const getCustomerTypeData = async (req: Request, res: Response): Promise<void> => {
   // Construct the file path to the Customer_Type.json file
-  const filePath = path.join(__dirname, '../data/Customer_Type.json');
+  const filePath = path.join(__dirname, '../Data/Customer_Type.json');
 
   try {
     // Read the JSON file asynchronously

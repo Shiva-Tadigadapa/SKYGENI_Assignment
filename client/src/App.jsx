@@ -12,7 +12,7 @@ const App = () => {
     try {
       toast("Waking up the server...", { duration: 0, id: "server-wakeup" });
 
-      const response = await axios.get("http://localhost:3000/api/customer");
+      const response = await axios.get("https://skygeni-assignment.onrender.com/api/customer");
 
       toast.dismiss("server-wakeup");
       toast.success("Server woke up! Data fetched successfully.");

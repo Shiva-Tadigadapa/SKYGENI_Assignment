@@ -13,7 +13,7 @@ interface ProductLineData {
 // Function to handle the request for product line data
 export const getProductLineData = async (req: Request, res: Response): Promise<void> => {
   // Construct the file path to the ACV_Range.json file
-  const filePath = path.join(__dirname, '../data/ACV_Range.json');
+  const filePath = path.join(__dirname, '../Data/ACV_Range.json');
 
   try {
     // Read the JSON file asynchronously
