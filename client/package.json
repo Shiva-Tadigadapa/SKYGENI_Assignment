@@ -14,6 +14,8 @@
     "d3": "^7.9.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-toastify": "^10.0.5",
+    "sonner": "^1.5.0",
     "tailwind-setup": "^2.2.0"
   },
   "devDependencies": {
