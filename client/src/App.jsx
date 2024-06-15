@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import BarChart from "./components/BarChart";
 import PieChart from "./components/DonutChart";
+import TableDetails from "./components/TableDetails";
 // import data from "./Customer_Type.json"; // Import your JSON data
 import axios from "axios";
 
@@ -21,7 +22,8 @@ const App = () => {
   }, []);
 
   return (
-    <div className=" justify-between p-20 h-screen w-full  flex items-center">
+    <div className=" justify-between p-20 h-screen w-full flex-col gap-20  flex items-center">
+      <div className=" flex">
       <div>
         <h1>Bar Chart with D3.js and React</h1>
         <BarChart data={data} />
@@ -29,6 +31,11 @@ const App = () => {
       <div>
         <h1>Pie Chart with D3.js and React</h1>
         <PieChart data={data} />
+      </div>
+      </div>
+      <div>
+        <h1>Table Details</h1>
+        <TableDetails data={data} />
       </div>
     </div>
   );
