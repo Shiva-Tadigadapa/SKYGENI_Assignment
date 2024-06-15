@@ -1,0 +1,110 @@
+[
+  {
+    "count": 2,
+    "acv": 307500,
+    "closed_fiscal_quarter": "2023-Q3",
+    "ACV_Range": "$100K - 200K"
+  },
+  {
+    "count": 15,
+    "acv": 472297.11,
+    "closed_fiscal_quarter": "2023-Q3",
+    "ACV_Range": "$20K - 50K"
+  },
+  {
+    "count": 8,
+    "acv": 554205.6,
+    "closed_fiscal_quarter": "2023-Q3",
+    "ACV_Range": "$50K - 100K"
+  },
+  {
+    "count": 33,
+    "acv": 263138.67,
+    "closed_fiscal_quarter": "2023-Q3",
+    "ACV_Range": "<$20K"
+  },
+  {
+    "count": 2,
+    "acv": 708200,
+    "closed_fiscal_quarter": "2023-Q3",
+    "ACV_Range": ">=$200K"
+  },
+  {
+    "count": 5,
+    "acv": 564500,
+    "closed_fiscal_quarter": "2023-Q4",
+    "ACV_Range": "$100K - 200K"
+  },
+  {
+    "count": 11,
+    "acv": 348497.14,
+    "closed_fiscal_quarter": "2023-Q4",
+    "ACV_Range": "$20K - 50K"
+  },
+  {
+    "count": 6,
+    "acv": 356708.07000000007,
+    "closed_fiscal_quarter": "2023-Q4",
+    "ACV_Range": "$50K - 100K"
+  },
+  {
+    "count": 33,
+    "acv": 242451.74000000002,
+    "closed_fiscal_quarter": "2023-Q4",
+    "ACV_Range": "<$20K"
+  },
+  {
+    "count": 1,
+    "acv": 112125,
+    "closed_fiscal_quarter": "2024-Q1",
+    "ACV_Range": "$100K - 200K"
+  },
+  {
+    "count": 9,
+    "acv": 306169.81999999995,
+    "closed_fiscal_quarter": "2024-Q1",
+    "ACV_Range": "$20K - 50K"
+  },
+  {
+    "count": 10,
+    "acv": 694818.49,
+    "closed_fiscal_quarter": "2024-Q1",
+    "ACV_Range": "$50K - 100K"
+  },
+  {
+    "count": 36,
+    "acv": 261356.43000000002,
+    "closed_fiscal_quarter": "2024-Q1",
+    "ACV_Range": "<$20K"
+  },
+  {
+    "count": 1,
+    "acv": 298766.67,
+    "closed_fiscal_quarter": "2024-Q1",
+    "ACV_Range": ">=$200K"
+  },
+  {
+    "count": 2,
+    "acv": 242043.69,
+    "closed_fiscal_quarter": "2024-Q2",
+    "ACV_Range": "$100K - 200K"
+  },
+  {
+    "count": 7,
+    "acv": 234323.99,
+    "closed_fiscal_quarter": "2024-Q2",
+    "ACV_Range": "$20K - 50K"
+  },
+  {
+    "count": 4,
+    "acv": 283836.78,
+    "closed_fiscal_quarter": "2024-Q2",
+    "ACV_Range": "$50K - 100K"
+  },
+  {
+    "count": 16,
+    "acv": 112260.32,
+    "closed_fiscal_quarter": "2024-Q2",
+    "ACV_Range": "<$20K"
+  }
+]

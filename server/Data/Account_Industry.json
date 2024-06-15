@@ -1,0 +1,205 @@
+[
+  {
+    "count": 29,
+    "acv": 1010483.64,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Acct_Industry": "Manufacturing",
+    "query_key": "industry"
+  },
+  {
+    "count": 11,
+    "acv": 875741.9,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Acct_Industry": "Transportation",
+    "query_key": "industry"
+  },
+  {
+    "count": 17,
+    "acv": 809108.63,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Acct_Industry": "Manufacturing",
+    "query_key": "industry"
+  },
+  {
+    "count": 19,
+    "acv": 550324.8999999999,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Acct_Industry": "Manufacturing",
+    "query_key": "industry"
+  },
+  {
+    "count": 17,
+    "acv": 519986.38000000006,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Acct_Industry": "Manufacturing",
+    "query_key": "industry"
+  },
+  {
+    "count": 18,
+    "acv": 380430.32,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Acct_Industry": "Transportation",
+    "query_key": "industry"
+  },
+  {
+    "count": 22,
+    "acv": 353472.38,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Acct_Industry": "Transportation",
+    "query_key": "industry"
+  },
+  {
+    "count": 7,
+    "acv": 233000,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Acct_Industry": "Wholesalers",
+    "query_key": "industry"
+  },
+  {
+    "count": 6,
+    "acv": 218577.94000000003,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Acct_Industry": "Tecnology Svcs",
+    "query_key": "industry"
+  },
+  {
+    "count": 7,
+    "acv": 171210.96,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Acct_Industry": "Wholesalers",
+    "query_key": "industry"
+  },
+  {
+    "count": 3,
+    "acv": 168722.41,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Acct_Industry": "Retail",
+    "query_key": "industry"
+  },
+  {
+    "count": 6,
+    "acv": 168050,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Acct_Industry": "Wholesalers",
+    "query_key": "industry"
+  },
+  {
+    "count": 2,
+    "acv": 136043.69,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Acct_Industry": "Tecnology Svcs",
+    "query_key": "industry"
+  },
+  {
+    "count": 4,
+    "acv": 110339.22,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Acct_Industry": "Tecnology Svcs",
+    "query_key": "industry"
+  },
+  {
+    "count": 4,
+    "acv": 106744.20000000001,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Acct_Industry": "Financial Svcs",
+    "query_key": "industry"
+  },
+  {
+    "count": 3,
+    "acv": 100240,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Acct_Industry": "Retail",
+    "query_key": "industry"
+  },
+  {
+    "count": 4,
+    "acv": 93597.2,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Acct_Industry": "Transportation",
+    "query_key": "industry"
+  },
+  {
+    "count": 4,
+    "acv": 57966,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Acct_Industry": "Tecnology Svcs",
+    "query_key": "industry"
+  },
+  {
+    "count": 1,
+    "acv": 51000,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Acct_Industry": "Education",
+    "query_key": "industry"
+  },
+  {
+    "count": 1,
+    "acv": 42798.99,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Acct_Industry": "Financial Svcs",
+    "query_key": "industry"
+  },
+  {
+    "count": 3,
+    "acv": 36475.64,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Acct_Industry": "Retail",
+    "query_key": "industry"
+  },
+  {
+    "count": 2,
+    "acv": 25500,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Acct_Industry": "Wholesalers",
+    "query_key": "industry"
+  },
+  {
+    "count": 1,
+    "acv": 24200,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Acct_Industry": "Retail",
+    "query_key": "industry"
+  },
+  {
+    "count": 1,
+    "acv": 20696.38,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Acct_Industry": "Financial Svcs",
+    "query_key": "industry"
+  },
+  {
+    "count": 2,
+    "acv": 6382.81,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Acct_Industry": "Financial Svcs",
+    "query_key": "industry"
+  },
+  {
+    "acv": 49880,
+    "Total_Quantity": null,
+    "count": 3,
+    "Acct_Industry": "Others",
+    "closed_fiscal_quarter": "2023-Q3"
+  },
+  {
+    "acv": 3000,
+    "Total_Quantity": null,
+    "count": 1,
+    "Acct_Industry": "Others",
+    "closed_fiscal_quarter": "2024-Q1"
+  },
+  {
+    "acv": 0,
+    "Total_Quantity": 0,
+    "count": 0,
+    "Acct_Industry": "Others",
+    "closed_fiscal_quarter": "2024-Q2"
+  },
+  {
+    "acv": 39225.93,
+    "Total_Quantity": null,
+    "count": 3,
+    "Acct_Industry": "Others",
+    "closed_fiscal_quarter": "2023-Q4"
+  }
+]

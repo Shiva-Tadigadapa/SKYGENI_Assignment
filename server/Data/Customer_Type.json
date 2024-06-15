@@ -1,0 +1,50 @@
+[
+  {
+    "count": 46,
+    "acv": 1322309.9899999998,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Cust_Type": "Existing Customer"
+  },
+  {
+    "count": 14,
+    "acv": 983031.39,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Cust_Type": "New Customer"
+  },
+  {
+    "count": 45,
+    "acv": 1124856.9500000002,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Cust_Type": "Existing Customer"
+  },
+  {
+    "count": 10,
+    "acv": 387300,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Cust_Type": "New Customer"
+  },
+  {
+    "count": 51,
+    "acv": 1360047.1599999997,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Cust_Type": "Existing Customer"
+  },
+  {
+    "count": 6,
+    "acv": 313189.25,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Cust_Type": "New Customer"
+  },
+  {
+    "count": 23,
+    "acv": 647821.48,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Cust_Type": "Existing Customer"
+  },
+  {
+    "count": 6,
+    "acv": 224643.3,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Cust_Type": "New Customer"
+  }
+]

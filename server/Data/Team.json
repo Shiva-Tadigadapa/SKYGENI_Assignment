@@ -1,0 +1,122 @@
+[
+  {
+    "count": 5,
+    "acv": 238547.19,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Team": "Asia Pac"
+  },
+  {
+    "count": 2,
+    "acv": 165000,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Team": "Enterprise"
+  },
+  {
+    "count": 38,
+    "acv": 778384.3500000001,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Team": "Europe"
+  },
+  {
+    "count": 7,
+    "acv": 87409.84,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Team": "Latin America"
+  },
+  {
+    "count": 8,
+    "acv": 1036000,
+    "closed_fiscal_quarter": "2023-Q3",
+    "Team": "North America"
+  },
+  {
+    "count": 13,
+    "acv": 349600,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Team": "Asia Pac"
+  },
+  {
+    "count": 3,
+    "acv": 192000,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Team": "Enterprise"
+  },
+  {
+    "count": 31,
+    "acv": 736276.98,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Team": "Europe"
+  },
+  {
+    "count": 6,
+    "acv": 54279.97000000001,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Team": "Latin America"
+  },
+  {
+    "count": 2,
+    "acv": 180000,
+    "closed_fiscal_quarter": "2023-Q4",
+    "Team": "North America"
+  },
+  {
+    "count": 4,
+    "acv": 255204.87,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Team": "Asia Pac"
+  },
+  {
+    "count": 6,
+    "acv": 530865,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Team": "Enterprise"
+  },
+  {
+    "count": 35,
+    "acv": 569561.3799999999,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Team": "Europe"
+  },
+  {
+    "count": 7,
+    "acv": 53346.200000000004,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Team": "Latin America"
+  },
+  {
+    "count": 5,
+    "acv": 264258.95999999996,
+    "closed_fiscal_quarter": "2024-Q1",
+    "Team": "North America"
+  },
+  {
+    "count": 9,
+    "acv": 229533.33000000002,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Team": "Asia Pac"
+  },
+  {
+    "count": 3,
+    "acv": 57750,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Team": "Enterprise"
+  },
+  {
+    "count": 10,
+    "acv": 322089.88,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Team": "Europe"
+  },
+  {
+    "count": 3,
+    "acv": 26791.57,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Team": "Latin America"
+  },
+  {
+    "count": 4,
+    "acv": 236300,
+    "closed_fiscal_quarter": "2024-Q2",
+    "Team": "North America"
+  }
+]
