@@ -2,22 +2,20 @@ import { Request, Response } from 'express';
 import { promises as fs } from 'fs';
 import path from 'path';
 
-// Define a type for the account industry data
-interface AccountIndustryData {
-  count: number;
-  acv: number;
-  closed_fiscal_quarter: string;
-  Acct_Industry: string;
-  query_key: string;
+// Define a type for the customer type data
+interface CustomerTypeData {
+  customerId: string;
+  customerName: string;
+  customerType: string;
+  // Define other properties as needed
 }
 
-export const getAccountIndustryData = async (req: Request, res: Response): Promise<void> => {
-  const filePath = path.join(__dirname, '../data/Account_Industry.json');
-  console.log(filePath)
+export const getCustomerTypeData = async (req: Request, res: Response): Promise<void> => {
+  const filePath = path.join(__dirname, '../data/Customer_Type.json');
 
   try {
     const data = await fs.readFile(filePath, 'utf-8');
-    const parsedData: AccountIndustryData[] = JSON.parse(data);
+    const parsedData: CustomerTypeData[] = JSON.parse(data);
     if (Array.isArray(parsedData)) {
         res.json(parsedData);
     } else {
@@ -28,4 +26,3 @@ export const getAccountIndustryData = async (req: Request, res: Response): Promi
     res.status(500).json({ error: 'Failed to read data' });
   }
 };
-
