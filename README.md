@@ -45,3 +45,10 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Shiva-Tadigadapa/skYGENI_Assignment.git
+
+
+
+![alt text](https://github.com/Shiva-Tadigadapa/SKYGENI_Assignment/blob/master/screenshots/image1.png?raw=true)
+![alt text](https://github.com/Shiva-Tadigadapa/SKYGENI_Assignment/blob/master/screenshots/image2.png?raw=true)
+![alt text](https://github.com/Shiva-Tadigadapa/SKYGENI_Assignment/blob/master/screenshots/image.png?raw=true)
+ 
