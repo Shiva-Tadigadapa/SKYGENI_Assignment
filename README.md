@@ -16,12 +16,7 @@ This repository contains the source code for the SKYGENI assignment. The primary
   - [Backend](#backend)
   - [Data Visualization](#data-visualization)
 - [Installation and Setup Instructions](#installation-and-setup-instructions)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Future Improvements](#future-improvements)
-- [Contact](#contact)
-- [License](#license)
-
+  
 ## Project Overview
 This project involves creating a responsive web application demonstrating the usage of modern front-end technologies and data visualization techniques. The application includes several key features that showcase my capabilities in front-end engineering, particularly in creating interactive and dynamic user interfaces.
 
