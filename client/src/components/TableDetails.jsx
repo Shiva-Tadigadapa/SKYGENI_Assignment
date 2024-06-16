@@ -3,11 +3,11 @@ import React from "react";
 const DataTable = ({ data }) => {
   // Extract unique closed fiscal quarters from data
   const uniqueQuarters = [
-    ...new Set(data.map((item) => item.closed_fiscal_quarter)),
+    ...new Set(data && data.map((item) => item.closed_fiscal_quarter)),
   ];
   
   // Extract unique customer types from data
-  const uniqueCustomerTypes = [...new Set(data.map((item) => item.Cust_Type))];
+  const uniqueCustomerTypes = [...new Set(data && data.map((item) => item.Cust_Type))];
 
   // Function to calculate total ACV for a specific quarter and customer type
   const getTotalACV = (quarter, custType) => {
@@ -38,7 +38,7 @@ const DataTable = ({ data }) => {
   };
 
   // Calculate total number of opportunities for the entire table
-  const totalOpportunities = data.reduce(
+  const totalOpportunities =data &&  data.reduce(
     (total, item) => total + item.count,
     0
   );
@@ -56,7 +56,7 @@ const DataTable = ({ data }) => {
 
   // Calculate total percentage of total ACV for Existing Customer and New Customer
   const totalPercentageExistingCustomer = (
-    (data
+    (data && data
       .filter((item) => item.Cust_Type === "Existing Customer")
       .reduce((total, item) => total + item.acv, 0) /
       totalACVAllQuarters) *
@@ -64,7 +64,7 @@ const DataTable = ({ data }) => {
   ).toFixed(2);
 
   const totalPercentageNewCustomer = (
-    (data
+    (data && data
       .filter((item) => item.Cust_Type === "New Customer")
       .reduce((total, item) => total + item.acv, 0) /
       totalACVAllQuarters) *
